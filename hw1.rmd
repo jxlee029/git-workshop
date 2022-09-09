@@ -1,0 +1,29 @@
+---
+title: "hw1test"
+author: "jason"
+date: "2022-09-09"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+This is the portion that is a part of HW1
+
+Bulletted list of three items
+
+*Programming
+*Geography
+*Engineering
+
+This is the website for ***“R for Data Science”***. This book will teach you how to do **data science** with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. In this book, you will find a practicum of skills for data science. Just as a chemist learns how to clean test tubes and stock a lab, you’ll learn how to clean data and draw plots—and many other things besides. *These are the skills that allow data science to happen, and here you will find the best practices for doing each of these things with R.* You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. You’ll also learn how to manage cognitive resources to `facilitate discoveries` when wrangling, visualising, and exploring data.
+
+Here is a link to my webpage <https://jxlee029.github.io/>
+
+
+
